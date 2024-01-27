@@ -1,4 +1,4 @@
-# Backend of Password saver application
+# Apis deployed on AWS using CI/CD
 These APIs have all the endpoints required for successfully posting, deleting, editing, and for getting the user. They have been deployed on AWS using CI/CD using Github actions.
 
 ## `Follow these instructions to run the API successfully`

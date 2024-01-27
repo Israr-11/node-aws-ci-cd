@@ -1,6 +1,6 @@
 # APIs deployed on AWS using CI/CD
 These APIs have all the endpoints required for successfully posting, deleting, editing, and for getting the user. They have been deployed on AWS using CI/CD using Github actions.
-![image](https://github.com/Israr-11/node-aws-ci-cd/assets/91403838/657bb95f-a1d1-44d6-a614-380e8e492d91)
+![image](https://github.com/Israr-11/node-aws-ci-cd/assets/91403838/cc821815-5d92-4551-9717-48b3da2794c9)
 
 
 ## `Follow these instructions to run the API successfully`

@@ -26,7 +26,7 @@ app.use((req, res, next) => {
 
 //Middleware
 
-app.use("/api/user", storeRoute);
+app.use("/user", storeRoute);
 
 //Litening at port 5000
 const port = process.env.PORT || 5000;

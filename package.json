@@ -2,10 +2,10 @@
   "name": "authenticate",
   "version": "1.0.0",
   "description": "API using Node js to build thorough understanding of Authentication using JWT",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
